@@ -29,7 +29,7 @@ TYPES OF DATA TYPES IN PYTHON:
 - BOOLEAN [BOOL] [EXAMPLE: 0, 1, True, False]
 - NONE [NONE] [EXAMPLE: NULL]
     """
-'''
+
 a = "Hello"
 print(type(a))
 
@@ -65,7 +65,7 @@ print(type(b))
 # dict
 c= {"age":21}
 print(type(c))
-'''
+
 
 # q1
 age = int(input())
@@ -137,3 +137,4 @@ list = list(input())
 tuple = tuple(input())
 print(list)
 print(tuple)
+
